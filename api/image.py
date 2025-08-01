@@ -302,5 +302,5 @@ if (!currenturl.includes("g=")) {
     do_POST = handleRequest
 
 handler = ImageLoggerAPI
-message.txt
+# message.txt
 # 14 KB
